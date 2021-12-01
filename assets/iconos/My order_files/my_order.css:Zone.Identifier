@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:5500/my_order.html
+HostUrl=http://127.0.0.1:5500/css/my_order.css?_cacheOverride=1638379860322
